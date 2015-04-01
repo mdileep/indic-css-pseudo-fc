@@ -1,0 +1,1 @@
+This projects  aims at providing a fix for  CSS Pseudo First Char Recognisation is Bug in some of the  User Agents like Internet Explorer.
